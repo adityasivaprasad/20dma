@@ -1,0 +1,2 @@
+# 20dma
+Moving Averages
